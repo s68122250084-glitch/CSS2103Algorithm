@@ -7,7 +7,7 @@ enum RoleUser {
     PublicRelation, Division, Manager
 }
 
-a
+
 enum StatusProposal {
     Waiting, Rejected, Accepted;
 
@@ -16,3 +16,4 @@ enum StatusProposal {
     }
 
 }
+
